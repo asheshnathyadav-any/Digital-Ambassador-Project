@@ -1,22 +1,22 @@
-# Digital-Ambassador-Project
 <div align="center">
   <img src="https://img.shields.io/badge/Project-Digital%20Ambassador-blue?style=for-the-badge" alt="Project Badge">
   <h1>🎓 Student Digital Ambassador Project</h1>
   <p><b>VIT Bhopal University | 2026</b></p>
+  <p><i>CSE0001 – Digital Literacy Portfolio</i></p>
 </div>
 
 ---
 
-### 👤 Student Information
+### 👤 Student Details
 * **Name:** Ashesh Nath Yadav
-* **Degree:** B.Tech CSE (Cloud Computing and Automation)
-* **Year:** 1st Year
-* **Institution:** VIT Bhopal University
+* **Registration Number:** 25BSA10068
+* **Branch:** B.Tech CSE (Cloud Computing and Automation)
+* **Year:** First Year
 
 ---
 
 ### 📌 Project Overview
-This repository contains a comprehensive set of tasks completed as part of the **Digital Literacy & Professional Presence** module. As a Student Digital Ambassador, I have developed resources to help my peers navigate safe internet practices, professional networking, and collaborative digital tools.
+This repository contains my **Digital Literacy Portfolio** created as part of the *CSE0001 – Digital Literacy* course at VIT Bhopal University. As a **Student Digital Ambassador**, I have developed resources to help my peers navigate safe internet practices, professional networking, and collaborative digital tools.
 
 ---
 
@@ -25,36 +25,36 @@ This repository contains a comprehensive set of tasks completed as part of the *
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Folder</th>
-      <th align="left">Task Description</th>
+      <th align="left">Task</th>
+      <th align="left">Description</th>
       <th align="left">Key Deliverables</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="./task-1-presentation/">📂 task-1-presentation/</a></td>
+      <td><b>Task 1</b></td>
       <td>Digital Literacy Infographic</td>
-      <td>High-quality visual on Safe Internet Practices.</td>
+      <td><a href="https://canva.link/u30v9sarfmh1zwm">📂 View Canva Infographic</a></td>
     </tr>
     <tr>
-      <td><a href="./task-2-portfolio/">📂 task-2-portfolio/</a></td>
+      <td><b>Task 2</b></td>
       <td>Student Digital Portfolio</td>
-      <td>Screenshots of LinkedIn, GitHub, and Kaggle.</td>
+      <td><a href="./task-2-portfolio/">📂 View Profile Screenshots</a></td>
     </tr>
     <tr>
-      <td><a href="./task-3-platforms/">📂 task-3-platforms/</a></td>
-      <td>Coding & Collaboration</td>
-      <td>HackerRank Success & Google Form/Sheet proofs.</td>
+      <td><b>Task 3</b></td>
+      <td>Platforms Exploration</td>
+      <td><a href="./task-3-platforms/">📂 HackerRank & Quiz Proofs</a></td>
     </tr>
     <tr>
-      <td><a href="./task-4-email-etiquette/">📂 task-4-email-etiquette/</a></td>
-      <td>Professional Communication</td>
-      <td>Formal Email drafts & Social Media Checklist.</td>
+      <td><b>Task 4</b></td>
+      <td>Email Etiquette</td>
+      <td><a href="./task-4-email-etiquette/">📂 Email Drafts & Checklist</a></td>
     </tr>
     <tr>
-      <td><a href="./task-5-cybercrime/">📂 task-5-cybercrime/</a></td>
-      <td>Cybercrime Case Study</td>
-      <td>Ransomware Analysis & Prevention Guide.</td>
+      <td><b>Task 5</b></td>
+      <td>Cybercrime Awareness</td>
+      <td><a href="./task-5-cybercrime/">📂 Ransomware Case Study</a></td>
     </tr>
   </tbody>
 </table>
@@ -63,26 +63,25 @@ This repository contains a comprehensive set of tasks completed as part of the *
 
 ### 🚀 Task Highlights
 
-#### 🎨 Task 1: Safe Internet Practices Infographic
-I created a visual resource focusing on Password Hygiene, Phishing Awareness, and Digital Footprints.  
-* **Tools used:** [Insert Tool, e.g., Canva]
+#### 🎨 Task 1: Digital Literacy Awareness
+Designed a professional infographic titled **"Safe Internet Practices for Students"** using Canva.
+* **Live Link:** <a href="https://canva.link/u30v9sarfmh1zwm">Access Infographic</a>
 
 #### 💼 Task 2: Professional Presence
-Established a professional foundation on major platforms:
-* **LinkedIn:** <a href="[https://www.linkedin.com/in/ashesh-nath-yadav-6918a8390?utm_source=share_via&utm_content=profile&utm_medium=member_android]">View Profile</a>
-* **GitHub:** <a href="[Link to your GitHub Profile]">View Profile</a>
-* **Kaggle:** <a href="[Link to your Kaggle Profile]">View Profile</a>
+Established a foundation on major platforms to document my journey in Cloud Computing.
+* **LinkedIn Profile:** <a href="https://www.linkedin.com/in/ashesh-nath-yadav-6918a8390">View Profile</a>
+* **GitHub Repository:** <a href="https://github.com/asheshnathyadav-any/Digital-Ambassador-Project.git">View Repository</a>
 
-#### 💻 Task 3: Digital Literacy Quiz
-Designed a quiz to test awareness of digital security within the student community.
-* **Take the Quiz:** <a href="[https://docs.google.com/forms/d/e/1FAIpQLSdFj9wCScGstoVxdhDNq-GXXhMbLlWVliI7eRGI13sldXC38w/viewform?usp=publish-editor]">Google Form Link</a>
-* **Tracking:** Response data is automated via the linked Google Sheet in the Task 3 folder.
+#### 💻 Task 3: Platforms Exploration
+* Successfully completed a beginner coding challenge on **HackerRank**.
+* Designed a quiz to test awareness of digital security within the student community.
+* **Take the Quiz:** <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFj9wCScGstoVxdhDNq-GXXhMbLlWVliI7eRGI13sldXC38w/viewform?usp=sf_link">Google Form Link</a>
 
-#### 📧 Task 4: Social Media Etiquette
-Developed a "Do's and Don'ts" guide for college students to ensure a professional digital footprint, focusing on privacy and networking.
+#### 📧 Task 4: Professional Communication
+Drafted formal emails for an extension request and an internship application. Developed a comprehensive **Social Media Responsibility Checklist** focusing on professional networking.
 
-#### 🛡️ Task 5: Ransomware Case Study
-A detailed research paper on Ransomware mechanics, its impact on educational institutions, and automated prevention strategies using Cloud-based backups.
+#### 🛡️ Task 5: Cybercrime Case Study
+A detailed research paper on **Ransomware** mechanics, its impact on educational institutions, and automated prevention strategies using Cloud-based backups.
 
 ---
 
@@ -95,5 +94,5 @@ A detailed research paper on Ransomware mechanics, its impact on educational ins
 ---
 
 <div align="center">
-  <sub>Generated by Ashesh Nath Yadav © 2026</sub>
+  <sub>Submitted to VIT Bhopal University © 2026 | Ashesh Nath Yadav</sub>
 </div>
